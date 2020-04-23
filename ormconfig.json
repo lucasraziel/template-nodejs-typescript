@@ -4,7 +4,7 @@
   "port": 5432,
   "username": "postgres",
   "password": "docker",
-  "database": "yourdatabase",
+  "database": "appyhourdev",
   "entities": ["./src/components/*model.ts"],
   "migrations": ["./src/database/migrations/*.ts"],
   "cli": {
